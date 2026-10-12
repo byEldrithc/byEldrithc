@@ -51,15 +51,6 @@
   <img src="https://streak-stats.demolab.com?user=byEldrithc&hide_border=true&background=0d1117&ring=7c3aed&fire=c084fc&currStreakLabel=c084fc&sideLabels=e9d5ff&currStreakNum=e9d5ff&sideNums=e9d5ff&dates=a78bfa" />
 </p>
 
-### 🐍 Contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byEldrithc/byEldrithc/output/github-snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/byEldrithc/byEldrithc/output/github-snake.svg" />
-  </picture>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1a0b2e&height=100&section=footer" />
 </p>
